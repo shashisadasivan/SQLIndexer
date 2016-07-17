@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\ShashiDotNet.Sql.Indexer.Program.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\ShashiDotNet.Sql.Indexer.Program.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\ShashiDotNet.Sql.Indexer.Program.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\obj\Debug\ShashiDotNet.Sql.Indexer.Program.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\obj\Debug\ShashiDotNet.Sql.Indexer.Program.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\obj\Debug\ShashiDotNet.Sql.Indexer.Program.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\ShashiDotNet.Sql.Indexer\ShashiDotNet.Sql.Indexer.Program\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
